@@ -3,3 +3,4 @@ Lib
 Scripts
 .env
 pyvenv.cfg
+token.json
